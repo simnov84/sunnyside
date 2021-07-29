@@ -1,0 +1,32 @@
+.im{
+    padding: 0px;
+}
+.box-center{
+    background-color: white;
+    padding: 50px 10px;
+    /*margin: 30px 0px;*/
+    margin:50px
+}
+.text{
+    margin: 25px;
+}
+.review_text{
+    text-align: center;
+    padding: 50px;
+    color: gray;
+}
+.ui{
+    text-align: center;
+}
+.Avatar{
+    border-radius: 50%;
+}
+.id_text{
+    padding-top: 40px
+}
+.description{
+    padding: 40px;
+}
+.description >h6{
+    color: grey;
+}
